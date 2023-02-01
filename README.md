@@ -1,5 +1,5 @@
 
-> Open this page at [https://raimonizard.github.io/microbit-fibonacci/](https://raimonizard.github.io/microbit-fibonacci/)
+> Open this page at [https://raimonizard.github.io/microbit-fibonacci/](https://raimonizard.github.io/microbit-fibonacci/) :blush:
 
 ## Use as Extension
 
@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/raimonizard/microbit-fibonacci** and import
 
-## Edit this project ![Build status badge](https://github.com/raimonizard/microbit-fibonacci/workflows/MakeCode/badge.svg)
+## Edit this project :grin:
 
 To edit this repository in MakeCode.
 
